@@ -1,0 +1,20 @@
+---
+title: "Matthew Glasenapp"
+image: headshot.jpeg
+about:
+  template: trestles
+  image-shape: rectangle
+  image-width: 15em
+  links:
+  - text: Email
+    icon: envelope
+    href: mailto:mglasena@ucsc.edu
+  - text: LinkedIn
+    icon: linkedin
+    href: https://www.linkedin.com/in/matthew-glasenapp/
+  - text: GitHub
+    icon: github
+    href: https://github.com/matthewglasenapp
+---
+
+Website under construction. Check back later.
