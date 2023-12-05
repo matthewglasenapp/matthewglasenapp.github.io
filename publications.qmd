@@ -4,7 +4,7 @@ title: "Publications"
 
 ## Peer Reviewed Publications
 
-1.  Glasenapp, MR and GH Pogson (*in review*). **Selection shapes the genomic landscape of introgressed ancestry in a pair of sympatric sea urchin species**. <https://doi.org/10.1101/2023.12.01.566927>.
+1.  Glasenapp, MR and GH Pogson (*in review*). **Selection shapes the genomic landscape of introgressed ancestry in a pair of sympatric sea urchin species**. *bioRxiv*. <https://doi.org/10.1101/2023.12.01.566927>.
 
 2.  **Glasenapp, MR** and GH Pogson (2023). **Extensive introgression among strongylocentrotid sea urchins revealed by phylogenomics**. *Ecology and Evolution*. <https://doi.org/10.1002/ece3.10446>.
 
