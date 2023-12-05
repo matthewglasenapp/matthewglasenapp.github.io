@@ -1,5 +1,6 @@
 ---
 title: "Matthew Glasenapp"
+subtitle: "Bioinformatics Scientist"
 image: headshot.jpeg
 about:
   template: trestles

@@ -9,11 +9,9 @@ website:
       - href: index.qmd
         text: Home
       - publications.qmd
-      - posts.qmd
       - projects.qmd
       - tutorials.qmd
       - cv.qmd
-      - contact.qmd
 
 format:
   html:
