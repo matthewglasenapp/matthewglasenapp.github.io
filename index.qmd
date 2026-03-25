@@ -31,4 +31,6 @@ I am a bioinformatics scientist with research interests in evolutionary genomics
 
 ## Education
 
-**University of California, Santa Cruz**
+- **PhD** | University of California, Santa Cruz
+- **MA** | University of California, Santa Cruz
+- **BA** | Macalester College
