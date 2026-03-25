@@ -1,3 +1,9 @@
 ---
 title: "Projects"
 ---
+
+## HLA-Resolve
+
+A bioinformatics tool for HLA typing and analysis.
+
+{{< fa brands github >}} [View on GitHub](https://github.com/matthewglasenapp/hla_resolve/tree/main)

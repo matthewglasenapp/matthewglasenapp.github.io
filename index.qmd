@@ -4,8 +4,8 @@ subtitle: "Bioinformatics Scientist"
 image: headshot.jpeg
 about:
   template: trestles
-  image-shape: rectangle
-  image-width: 15em
+  image-shape: round
+  image-width: 12em
   links:
   - text: Email
     icon: envelope
@@ -18,4 +18,17 @@ about:
     href: https://github.com/matthewglasenapp
 ---
 
-Website under construction. Check back later.
+## About
+
+I am a bioinformatics scientist with research interests in evolutionary genomics, phylogenomics, and computational biology. My work spans population genetics of marine invertebrates to developing tools for HLA typing and analysis.
+
+## Interests
+
+- Evolutionary & Population Genomics
+- Phylogenomics
+- Bioinformatics Tool Development
+- HLA Typing & Analysis
+
+## Education
+
+**University of California, Santa Cruz**

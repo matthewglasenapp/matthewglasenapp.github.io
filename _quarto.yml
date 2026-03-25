@@ -5,19 +5,22 @@ project:
 website:
   title: "Matthew Glasenapp"
   navbar:
+    background: dark
     left:
       - href: index.qmd
         text: Home
       - publications.qmd
       - projects.qmd
-      - tutorials.qmd
       - cv.qmd
+  page-footer:
+    center: "&copy; 2024–2026 Matthew Glasenapp"
 
 format:
   html:
-    theme: lux
+    theme:
+      light: flatly
     css: styles.css
-    toc: true
+    toc: false
+    link-external-newwindow: true
 
 editor: visual
-

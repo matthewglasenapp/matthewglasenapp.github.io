@@ -1,23 +1,65 @@
 [
   {
+    "objectID": "cv.html",
+    "href": "cv.html",
+    "title": "CV",
+    "section": "",
+    "text": "Coming soon. In the meantime, feel free to connect on LinkedIn or GitHub."
+  },
+  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Matthew Glasenapp",
     "section": "",
-    "text": "Website under construction. Check back later."
+    "text": "I am a bioinformatics scientist with research interests in evolutionary genomics, phylogenomics, and computational biology. My work spans population genetics of marine invertebrates to developing tools for HLA typing and analysis."
   },
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
+    "objectID": "index.html#about",
+    "href": "index.html#about",
+    "title": "Matthew Glasenapp",
     "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2"
+    "text": "I am a bioinformatics scientist with research interests in evolutionary genomics, phylogenomics, and computational biology. My work spans population genetics of marine invertebrates to developing tools for HLA typing and analysis."
+  },
+  {
+    "objectID": "index.html#interests",
+    "href": "index.html#interests",
+    "title": "Matthew Glasenapp",
+    "section": "Interests",
+    "text": "Interests\n\nEvolutionary & Population Genomics\nPhylogenomics\nBioinformatics Tool Development\nHLA Typing & Analysis"
+  },
+  {
+    "objectID": "index.html#education",
+    "href": "index.html#education",
+    "title": "Matthew Glasenapp",
+    "section": "Education",
+    "text": "Education\nUniversity of California, Santa Cruz"
+  },
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Projects",
+    "section": "",
+    "text": "A bioinformatics tool for HLA typing and analysis.\n{{&lt; fa brands github &gt;}} View on GitHub"
+  },
+  {
+    "objectID": "projects.html#hla-resolve",
+    "href": "projects.html#hla-resolve",
+    "title": "Projects",
+    "section": "",
+    "text": "A bioinformatics tool for HLA typing and analysis.\n{{&lt; fa brands github &gt;}} View on GitHub"
   },
   {
     "objectID": "publications.html",
     "href": "publications.html",
     "title": "Publications",
     "section": "",
-    "text": "Glasenapp, MR and GH Pogson (in review). Selection shapes the genomic landscape of introgressed ancestry in a pair of sympatric sea urchin species. bioRxiv. https://doi.org/10.1101/2023.12.01.566927.\nGlasenapp, MR and GH Pogson (2023). Extensive introgression among strongylocentrotid sea urchins revealed by phylogenomics. Ecology and Evolution. https://doi.org/10.1002/ece3.10446.\nSantiago, NA, Glasenapp, MR and SL Howard (2022). Dose-response in context: A backward design, inquiry activity workshop for college transfer students. eScholarship. https://escholarship.org/uc/item/28r6g3kf.\nHornbach, DJ, MC Hove, MW Ensley-Field, MR Glasenapp, et al. (2017). Comparison of ecosystem processes in a woodland and prairie pond with different hydroperiods. Journal of Freshwater Ecology. https://doi.org/10.1080/02705060.2017.1393468."
+    "text": "Glasenapp, MR and GH Pogson (2024). Selection shapes the genomic landscape of introgressed ancestry in a pair of sympatric sea urchin species. Genome Biology and Evolution, 16(6), evae124. DOI: 10.1093/gbe/evae124.\nGlasenapp, MR and GH Pogson (2023). Extensive introgression among strongylocentrotid sea urchins revealed by phylogenomics. Ecology and Evolution. DOI: 10.1002/ece3.10446.\nSantiago, NA, Glasenapp, MR and SL Howard (2022). Dose-response in context: A backward design, inquiry activity workshop for college transfer students. eScholarship. Link.\nHornbach, DJ, MC Hove, MW Ensley-Field, MR Glasenapp, et al. (2017). Comparison of ecosystem processes in a woodland and prairie pond with different hydroperiods. Journal of Freshwater Ecology. DOI: 10.1080/02705060.2017.1393468."
+  },
+  {
+    "objectID": "publications.html#peer-reviewed-publications",
+    "href": "publications.html#peer-reviewed-publications",
+    "title": "Publications",
+    "section": "",
+    "text": "Glasenapp, MR and GH Pogson (2024). Selection shapes the genomic landscape of introgressed ancestry in a pair of sympatric sea urchin species. Genome Biology and Evolution, 16(6), evae124. DOI: 10.1093/gbe/evae124.\nGlasenapp, MR and GH Pogson (2023). Extensive introgression among strongylocentrotid sea urchins revealed by phylogenomics. Ecology and Evolution. DOI: 10.1002/ece3.10446.\nSantiago, NA, Glasenapp, MR and SL Howard (2022). Dose-response in context: A backward design, inquiry activity workshop for college transfer students. eScholarship. Link.\nHornbach, DJ, MC Hove, MW Ensley-Field, MR Glasenapp, et al. (2017). Comparison of ecosystem processes in a woodland and prairie pond with different hydroperiods. Journal of Freshwater Ecology. DOI: 10.1080/02705060.2017.1393468."
   }
 ]

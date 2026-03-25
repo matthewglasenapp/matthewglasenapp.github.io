@@ -1,1 +1,53 @@
-/* css styles */
+/* Main content spacing */
+.about-entity {
+  margin-top: 1.5rem;
+}
+
+/* Publication list styling */
+#peer-reviewed-publications ol {
+  list-style: none;
+  counter-reset: pub-counter;
+  padding-left: 0;
+}
+
+#peer-reviewed-publications ol li {
+  counter-increment: pub-counter;
+  margin-bottom: 1.2rem;
+  padding: 1rem 1.2rem;
+  background: #f8f9fa;
+  border-left: 3px solid #2c3e50;
+  border-radius: 4px;
+}
+
+/* Project cards */
+.project-card {
+  padding: 1.2rem;
+  background: #f8f9fa;
+  border-left: 3px solid #2c3e50;
+  border-radius: 4px;
+  margin-bottom: 1.2rem;
+}
+
+/* About section headings */
+.about-contents h2 {
+  color: #2c3e50;
+  border-bottom: 2px solid #ecf0f1;
+  padding-bottom: 0.3rem;
+  margin-top: 1.5rem;
+}
+
+/* Footer */
+.nav-footer {
+  font-size: 0.85rem;
+  color: #95a5a6;
+}
+
+/* Navbar brand */
+.navbar-title {
+  font-weight: 600;
+}
+
+/* Links */
+a {
+  transition: color 0.2s ease;
+}
